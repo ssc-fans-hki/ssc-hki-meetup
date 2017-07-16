@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to SSC Helsinki meetup info page
 
-You can use the [editor on GitHub](https://github.com/ssc-fans-hki/ssc-hki-meetup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a group of readers of the blog [SlateStarCodex](http://slatestarcodex.com/) by Scott Alexander / Yvain. We are active in the Helsinki area and have been meeting approximately ~once per month (since April 2017) at Oluthuone Kaisla.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+If you are interested, you can reach us by:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Emailing the organizer-ish person at: sschelsinkimeetup (at) gmail.com
+* Discuss (mostly meetup details) at [Google group email list thingy](https://groups.google.com/group/ssc-helsinki-meetup-google-group)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssc-fans-hki/ssc-hki-meetup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Future meetups will be also listed on [the repository](https://ssc-meetups-community.github.io/meetups/) and advertized in the latest [open thrad](http://slatestarcodex.com/tag/open/?latest) and other relevant corners of the internet.
