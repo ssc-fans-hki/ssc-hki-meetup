@@ -13,6 +13,8 @@ Proposed monthly meetup dates can be found [here](https://calendar.google.com/ca
 
 Future meetups will be also listed on [the repository](https://ssc-meetups-community.github.io/meetups/) and advertized in the latest [open thread](http://slatestarcodex.com/tag/open/?latest) and other relevant corners of the internet.
 
+[Atom feed of the changes to this webpage](https://github.com/ssc-fans-hki/ssc-hki-meetup/commits/master.atom).
+
 ### Other links
 
 Some other avenues for SSC-aligned discussion on the Internet:
