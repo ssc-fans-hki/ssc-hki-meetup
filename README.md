@@ -9,7 +9,7 @@ If you are interested, you can reach us by:
 * Emailing the organizer-ish person at: sschelsinkimeetup (at) gmail.com
 * Request access to [Google group email list thingy](https://groups.google.com/group/ssc-helsinki-meetup-google-group). (We mostly discuss the next meetup details.)
 
-Proposed monthly meetup dates can be found [here](https://calendar.google.com/calendar/embed?src=sschelsinkimeetup%40gmail.com&ctz=Europe/Helsinki) ([ical feed](https://calendar.google.com/calendar/ical/sschelsinkimeetup%40gmail.com/public/basic.ics)). If you are interested, please RSVP to the email above or on the email list. The meetups that are confirmed to happen will be marked so approx. a week before (hopefully earlier).
+Proposed monthly meetup dates can be found [here](https://calendar.google.com/calendar/embed?src=sschelsinkimeetup%40gmail.com&ctz=Europe/Helsinki) ([ical feed](https://calendar.google.com/calendar/ical/sschelsinkimeetup%40gmail.com/public/basic.ics)). If you are interested, please RSVP to the email above or on the email list. The meetups that are confirmed to happen (number of participants n > 1) will be marked so approx. a week before (hopefully earlier).
 
 Future meetups will be also listed on [the repository](https://ssc-meetups-community.github.io/meetups/) and advertized in the latest [open thread](http://slatestarcodex.com/tag/open/?latest) and other relevant corners of the internet.
 
