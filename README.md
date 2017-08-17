@@ -19,7 +19,6 @@ Future meetups will be also listed on [the repository](https://ssc-meetups-commu
 
 Some other avenues for SSC-aligned discussion on the Internet:
 
-* [/r/slatestarcodex subreddit](https://www.reddit.com/r/slatestarcodex/)
 * [SSC Discord](https://discordapp.com/invite/gpaTCxh)
 * [LW Discussion forum](http://lesswrong.com/r/discussion/new/)
 * IRC: #transhumanismi @ IRCNet (in Finnish), #slatestarcodex @ Freenode
